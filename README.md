@@ -296,6 +296,8 @@ The system includes:
 - Comprehensive booking management
 - Built-in QR code scanner
 - Professional design throughout
+ 
+-Website Live link :- http://studyslot.free.nf/
 
 ---
 
